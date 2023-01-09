@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! I'm Erich Heiseler, Systems Administrator!
+
+### I'm currently studying for the AWS Solutions Architect Associate certification
+### I'm also currently working on my portfolio website
+
 
 <!--
 **Erich-H/Erich-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
