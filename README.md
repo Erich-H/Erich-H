@@ -1,7 +1,7 @@
 ### Hey! I'm Erich Heiseler, Systems Administrator!
 
 ### I'm currently studying for the AWS Solutions Architect Associate certification
-### I'm also currently working on my portfolio website
+##Interested in Systems Administration, Cloud Engineering, and Cloud Security.
 
 
 <!--
